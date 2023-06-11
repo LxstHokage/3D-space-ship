@@ -15,3 +15,8 @@
 Анимация работы сцены, представленная в виде GIF.
 
 ![EA Desktop 2023 06 11 - 20 57 32 03](https://github.com/LxstHokage/3D-space-ship/assets/109164076/7421cfbe-3150-4dde-b302-2b94c333b944)
+
+Контакты автора:
+
+[VK](https://vk.com/lxsthokage)
+[Telegram](https://t.me/lasthxkage)
