@@ -12,7 +12,7 @@ public class shipcontroller : MonoBehaviour
     void Start()
     {
         _rb = GetComponent<Rigidbody>();
-        particles = GetComponentsInChildren<ParticleSystem>();
+        _particles = GetComponentsInChildren<ParticleSystem>();
         foreach (var particle in particles)
         {
             particle.gameObject.SetActive(false);
